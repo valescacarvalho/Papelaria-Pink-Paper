@@ -1,0 +1,39 @@
+body {
+    background-color: palevioletred;
+    margin: 20px;
+
+
+}
+
+form {
+    font-family: verdana;
+    font-weight: bold;
+    font-size: 20px;
+
+}
+
+button {
+    border-radius: 10px;
+    background-color: mediumvioletred;
+    color: white;
+    padding: 5px;
+}
+
+#alerta{
+    font-family: fantasy;
+    font-size: 30px;
+    text-align: center;
+}
+
+.carousel-inner{
+    margin-left: 35%;
+    margin-right: 35%;
+    width: 600px;
+    height: 660px;
+}
+
+.form-control{
+    width: 500%;
+}
+
+
